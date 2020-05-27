@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Support Request)">7a2b390e1b209c10666043b4cc4bcb5d</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Support Request)</name>
+        <order/>
+        <parent>ea2bb10e1b209c10666043b4cc4bcb94</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:46:59</sys_created_on>
+        <sys_id>b62b390e1b209c10666043b4cc4bcb63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Support Request)</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b62b390e1b209c10666043b4cc4bcb63</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:46:59</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b62b390e1b209c10666043b4cc4bcb63"/>
+</record_update>

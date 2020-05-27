@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Support Request" max_length="40" name="x_snc_legal_admin_support_request" sizeclass="260" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Communications" max_length="1000" name="communications" type="string"/>
+        <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Department Referral" max_length="40" name="department_referral" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Accounting" sequence="0" value="Accounting"/>
+                <element inactive_on_update="false" label="Attorney Development" sequence="1" value="Attorney Development"/>
+                <element inactive_on_update="false" label="Business Development" sequence="2" value="Business Development"/>
+                <element inactive_on_update="false" label="Records" sequence="3" value="Records"/>
+                <element inactive_on_update="false" label="Recruiting" sequence="4" value="Recruiting"/>
+                <element inactive_on_update="false" label="Paralegal" sequence="5" value="Paralegal"/>
+            </choice>
+        </element>
+        <element label="Overtime" max_length="40" name="overtime" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Received" max_length="40" name="rec_type" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Email" sequence="0" value="Email"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Phone" sequence="1" value="Phone"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="IM" sequence="2" value="IM"/>
+                <element inactive_on_update="false" label="Portal" sequence="3" value="Portal"/>
+                <element inactive_on_update="false" label="Chat" sequence="4" value="Chat"/>
+                <element inactive_on_update="false" label="Voicemail" sequence="5" value="Voicemail"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Service Category" max_length="40" name="service_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Notary" sequence="0" value="Notary"/>
+                <element inactive_on_update="false" label="Mail/Fax/Email" sequence="1" value="Mail/Fax/Email"/>
+                <element inactive_on_update="false" label="New Business Intake (NBI)" sequence="2" value="New Business Intake (NBI)"/>
+                <element inactive_on_update="false" label="Pro Bono" sequence="3" value="Pro Bono"/>
+                <element inactive_on_update="false" label="Professional Development" sequence="4" value="Professional Development"/>
+                <element inactive_on_update="false" label="Research" sequence="5" value="Research"/>
+                <element inactive_on_update="false" label="Technical Support" sequence="6" value="Technical Support"/>
+                <element inactive_on_update="false" label="Billing" sequence="7" value="Billing"/>
+                <element inactive_on_update="false" label="Coordinator / Supervisory Duties" sequence="8" value="Coordinator / Supervisory Duties"/>
+                <element inactive_on_update="false" label="Time Management" sequence="9" value="Time Management"/>
+                <element inactive_on_update="false" label="Training/Meetings" sequence="10" value="Training/Meetings"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="In Progress"/>
+                <element inactive_on_update="false" label="Closed" sequence="2" value="Closed"/>
+                <element inactive_on_update="false" label="On Hold" sequence="3" value="On Hold"/>
+            </choice>
+        </element>
+    </element>
+</database>

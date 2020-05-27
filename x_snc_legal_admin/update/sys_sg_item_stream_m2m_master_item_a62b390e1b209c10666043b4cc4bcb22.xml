@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Support Request Item Stream">ae2bb10e1b209c10666043b4cc4bcb96</item_stream>
+        <master_item display_value="Support Request master_item">ae2bb10e1b209c10666043b4cc4bcb97</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:46:58</sys_created_on>
+        <sys_id>a62b390e1b209c10666043b4cc4bcb22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_a62b390e1b209c10666043b4cc4bcb22</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:46:58</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

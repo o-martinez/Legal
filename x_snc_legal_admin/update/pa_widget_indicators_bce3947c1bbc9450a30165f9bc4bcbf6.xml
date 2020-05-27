@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widget_indicators">
+    <pa_widget_indicators action="INSERT_OR_UPDATE">
+        <aggregate/>
+        <breakdown/>
+        <breakdown_level2/>
+        <chart_type>stacked</chart_type>
+        <color display_value="UI14 Green">3b36c9b3d7332100fa6c0c12ce610311</color>
+        <element/>
+        <element_level2/>
+        <elements_filter/>
+        <follow_element>true</follow_element>
+        <follow_managed_element>false</follow_managed_element>
+        <followed_breakdown display_value="Assignment Group">baec0752bf130100b96dac808c0739ed</followed_breakdown>
+        <indicator display_value="Productivity / Capacity">580f88381bbc9450a30165f9bc4bcb78</indicator>
+        <label/>
+        <order>200</order>
+        <second_y_axis>false</second_y_axis>
+        <sys_class_name>pa_widget_indicators</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-05-12 23:20:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bce3947c1bbc9450a30165f9bc4bcbf6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>pa_widget_indicators_bce3947c1bbc9450a30165f9bc4bcbf6</sys_update_name>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-05-12 23:29:01</sys_updated_on>
+        <widget display_value="Productivity / Capacity">7ad190f81bbc9450a30165f9bc4bcbe3</widget>
+        <widget_indicator/>
+    </pa_widget_indicators>
+</record_update>

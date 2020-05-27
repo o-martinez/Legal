@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item">
+    <sys_aw_new_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>sys_aw_new_menu_item</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:46:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>410b79ca1b209c10666043b4cc4bcbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_legal_admin_support_request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_aw_new_menu_item_410b79ca1b209c10666043b4cc4bcbed</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:46:20</sys_updated_on>
+        <table>x_snc_legal_admin_support_request</table>
+        <workspace_config display_value="Legal Admin Assistant">1bfa398a1b209c10666043b4cc4bcb29</workspace_config>
+    </sys_aw_new_menu_item>
+</record_update>

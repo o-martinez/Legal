@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Support Services Overview">112ebd421b609c10666043b4cc4bcbf8</legacy_page>
+        <name>PA Legal Asst Overview - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 18:00:00</sys_created_on>
+        <sys_id>dd2ebd421b609c10666043b4cc4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Legal Asst Overview - New Tab</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_grid_canvas_dd2ebd421b609c10666043b4cc4bcbf8</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 18:00:00</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

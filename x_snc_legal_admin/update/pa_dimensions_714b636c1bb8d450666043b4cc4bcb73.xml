@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <empty_value/>
+        <facts_table>sys_user</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown/>
+        <name>Users</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-05-12 20:22:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>714b636c1bb8d450666043b4cc4bcb73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Users</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>pa_dimensions_714b636c1bb8d450666043b4cc4bcb73</sys_update_name>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-05-12 20:22:03</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="delete_multiple" query="documentkey=714b636c1bb8d450666043b4cc4bcb73"/>
+</record_update>

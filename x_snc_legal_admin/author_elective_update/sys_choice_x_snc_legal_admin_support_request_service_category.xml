@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="service_category" table="x_snc_legal_admin_support_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Notary</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c5cb5ce1b209c10666043b4cc4bcbdc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:45:25</sys_updated_on>
+            <value>Notary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mail/Fax/Email</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d05cb5ce1b209c10666043b4cc4bcbdf</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:45:26</sys_updated_on>
+            <value>Mail/Fax/Email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Business Intake (NBI)</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d45cf9ce1b209c10666043b4cc4bcbee</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:45:26</sys_updated_on>
+            <value>New Business Intake (NBI)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pro Bono</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d05cf9ce1b209c10666043b4cc4bcbf0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:45:26</sys_updated_on>
+            <value>Pro Bono</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Professional Development</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc5cf9ce1b209c10666043b4cc4bcbf1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:45:26</sys_updated_on>
+            <value>Professional Development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Research</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d85cf9ce1b209c10666043b4cc4bcbf3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:45:26</sys_updated_on>
+            <value>Research</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical Support</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d45cf9ce1b209c10666043b4cc4bcbf5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:45:26</sys_updated_on>
+            <value>Technical Support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Billing</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>7</sequence>
+            <sys_created_by>marcus</sys_created_by>
+            <sys_created_on>2020-05-06 16:51:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b79144b61be8dc10a30165f9bc4bcbc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:51:22</sys_updated_on>
+            <value>Billing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Coordinator / Supervisory Duties</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>8</sequence>
+            <sys_created_by>marcus</sys_created_by>
+            <sys_created_on>2020-05-06 16:51:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f39144b61be8dc10a30165f9bc4bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:51:22</sys_updated_on>
+            <value>Coordinator / Supervisory Duties</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Time Management</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>9</sequence>
+            <sys_created_by>marcus</sys_created_by>
+            <sys_created_on>2020-05-06 16:51:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff9144b61be8dc10a30165f9bc4bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:51:22</sys_updated_on>
+            <value>Time Management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Training/Meetings</label>
+            <language>en</language>
+            <name>x_snc_legal_admin_support_request</name>
+            <sequence>10</sequence>
+            <sys_created_by>marcus</sys_created_by>
+            <sys_created_on>2020-05-06 16:51:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb9144b61be8dc10a30165f9bc4bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marcus</sys_updated_by>
+            <sys_updated_on>2020-05-06 16:51:22</sys_updated_on>
+            <value>Training/Meetings</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>service_category</element>
+            <name>x_snc_legal_admin_support_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>omar.martinez</sys_created_by>
+            <sys_created_on>2020-05-04 17:52:00</sys_created_on>
+            <sys_id>185cb5ce1b209c10666043b4cc4bcbdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>service_category</sys_name>
+            <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+            <sys_update_name>sys_choice_x_snc_legal_admin_support_request_service_category</sys_update_name>
+            <sys_updated_by>omar.martinez</sys_updated_by>
+            <sys_updated_on>2020-05-04 17:52:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

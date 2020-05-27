@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Open Requested Items Age Monitor">014beb6ad7300200b96d45a3ce61037c</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>pa_viewer</identity>
+        <read>true</read>
+        <role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-05-06 21:48:45</sys_created_on>
+        <sys_id>3fa58d321ba81050666043b4cc4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_viewer</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_3fa58d321ba81050666043b4cc4bcbab</sys_update_name>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-05-06 21:48:45</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">6e2bb10e1b209c10666043b4cc4bcb8e</icon>
+        <item_view display_value="Support Request Detail Screen Item View">aa2bb10e1b209c10666043b4cc4bcb93</item_view>
+        <name>Support Request Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:46:58</sys_created_on>
+        <sys_id>ea2bb10e1b209c10666043b4cc4bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Request Form Screen</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_sg_form_screen_ea2bb10e1b209c10666043b4cc4bcb94</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:46:58</sys_updated_on>
+        <table>x_snc_legal_admin_support_request</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ea2bb10e1b209c10666043b4cc4bcb94"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="legal_admin_assistant" name="legal_admin_assistant">9b0bb9ca1b209c10666043b4cc4bcbcd</contains>
+        <role display_value="x_snc_legal_admin.superuser" name="x_snc_legal_admin.superuser">76b9318a1b209c10666043b4cc4bcba3</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:46:30</sys_created_on>
+        <sys_id>6f0bf9ca1b209c10666043b4cc4bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>legal_admin_assistant.x_snc_legal_admin.superuser</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_user_role_contains_6f0bf9ca1b209c10666043b4cc4bcb04</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:46:30</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

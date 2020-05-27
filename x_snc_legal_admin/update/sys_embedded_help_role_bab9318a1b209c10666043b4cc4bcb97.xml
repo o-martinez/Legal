@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_legal_admin.user" name="x_snc_legal_admin.user">fab9710e1bec5c10666043b4cc4bcb9f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:40:42</sys_created_on>
+        <sys_id>bab9318a1b209c10666043b4cc4bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fab9710e1bec5c10666043b4cc4bcb9f</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bab9318a1b209c10666043b4cc4bcb97</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:40:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

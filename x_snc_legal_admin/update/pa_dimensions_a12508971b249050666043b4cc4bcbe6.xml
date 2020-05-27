@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="sys_choice">name=x_snc_legal_admin_support_request^element=service_category<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="x_snc_legal_admin_support_request"/>
+            <item endquery="false" field="element" goto="false" newquery="false" operator="=" or="false" value="service_category"/>
+        </conditions>
+        <description/>
+        <empty_value/>
+        <facts_table>sys_choice</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown/>
+        <name>x_snc_legal_admin_support_request.service_category</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-05-08 06:24:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a12508971b249050666043b4cc4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_legal_admin_support_request.service_category</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>pa_dimensions_a12508971b249050666043b4cc4bcbe6</sys_update_name>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-05-08 06:24:50</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="delete_multiple" query="documentkey=a12508971b249050666043b4cc4bcbe6"/>
+</record_update>

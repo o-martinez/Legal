@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">509985a4db120010784e3967f49619bf</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:45:32</sys_created_on>
+        <sys_id>65da35ca1b209c10666043b4cc4bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:45:32</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

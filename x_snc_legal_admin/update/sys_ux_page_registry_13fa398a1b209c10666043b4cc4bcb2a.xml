@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>1bfa398a1b209c10666043b4cc4bcb29</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/legal_admin_assist</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-04 17:46:12</sys_created_on>
+        <sys_id>13fa398a1b209c10666043b4cc4bcb2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Legal Admin Assistant</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sys_ux_page_registry_13fa398a1b209c10666043b4cc4bcb2a</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:46:12</sys_updated_on>
+        <title>Legal Admin Assistant</title>
+    </sys_ux_page_registry>
+</record_update>
