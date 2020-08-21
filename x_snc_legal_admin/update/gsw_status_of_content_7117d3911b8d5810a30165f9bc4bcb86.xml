@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Foundation Data">f566f484b7253300a75124f8de11a959</content>
+        <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>0</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="2020-05-27 06:04:33">8617d3911b8d5810a30165f9bc4bcba5</related_log_entry>
+        <status>0</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-27 13:04:33</sys_created_on>
+        <sys_id>7117d3911b8d5810a30165f9bc4bcb86</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>gsw_status_of_content_7117d3911b8d5810a30165f9bc4bcb86</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-27 13:04:33</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>

@@ -9,7 +9,7 @@
         <description/>
         <entered_time/>
         <kill_job>false</kill_job>
-        <name>PA Legal App</name>
+        <name>PA Legal App 1</name>
         <run_as display_value="Marcus">076dfd021b609c10666043b4cc4bcb0b</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
@@ -31,14 +31,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e9a62d0f1ba85050666043b4cc4bcbc0</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>PA Legal App</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>PA Legal App 1</sys_name>
         <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
         <sys_update_name>sysauto_pa_e9a62d0f1ba85050666043b4cc4bcbc0</sys_update_name>
         <sys_updated_by>marcus</sys_updated_by>
-        <sys_updated_on>2020-05-12 20:22:51</sys_updated_on>
+        <sys_updated_on>2020-05-28 17:17:05</sys_updated_on>
         <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_pa>

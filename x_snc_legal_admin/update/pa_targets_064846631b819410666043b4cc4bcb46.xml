@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_targets">
+    <pa_targets action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate/>
+        <any_element>false</any_element>
+        <breakdown/>
+        <breakdown_level2/>
+        <color_scheme display_value="3 color traffic light">5947e121d7021100ef2281537e61034f</color_scheme>
+        <element/>
+        <element_level2/>
+        <indicator display_value="Staff Surplus 2">97b446af1b419410666043b4cc4bcbff</indicator>
+        <owner/>
+        <sys_class_name>pa_targets</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-06-03 07:06:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>064846631b819410666043b4cc4bcb46</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>97b446af1b419410666043b4cc4bcbff</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>pa_targets_064846631b819410666043b4cc4bcb46</sys_update_name>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-06-03 07:09:11</sys_updated_on>
+        <values_modified_at>2020-06-03 07:08:31</values_modified_at>
+    </pa_targets>
+</record_update>

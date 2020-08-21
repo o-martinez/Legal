@@ -9,14 +9,14 @@
         <sys_created_by>marcus</sys_created_by>
         <sys_created_on>2020-05-12 23:12:50</sys_created_on>
         <sys_id>9a72dcf81bbc9450a30165f9bc4bcbdb</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>fc030c3a1be8dc10a30165f9bc4bcb63</sys_name>
         <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_9a72dcf81bbc9450a30165f9bc4bcbdb</sys_update_name>
         <sys_updated_by>marcus</sys_updated_by>
-        <sys_updated_on>2020-05-12 23:45:30</sys_updated_on>
-        <width>8</width>
+        <sys_updated_on>2020-06-03 07:04:44</sys_updated_on>
+        <width>9</width>
     </sys_grid_canvas_pane>
 </record_update>

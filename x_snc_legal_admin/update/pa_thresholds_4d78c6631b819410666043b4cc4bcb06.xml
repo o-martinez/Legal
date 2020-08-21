@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds">
+    <pa_thresholds action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate/>
+        <all_time_amount/>
+        <breakdown/>
+        <breakdown_level2/>
+        <condition>less_than</condition>
+        <create_score_notes>true</create_score_notes>
+        <display>Staff Surplus 2</display>
+        <element/>
+        <element_level2/>
+        <indicator display_value="Staff Surplus 2">97b446af1b419410666043b4cc4bcbff</indicator>
+        <last_check>20200420</last_check>
+        <owner/>
+        <sys_class_name>pa_thresholds</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-06-03 07:07:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d78c6631b819410666043b4cc4bcb06</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Staff Surplus 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>pa_thresholds_4d78c6631b819410666043b4cc4bcb06</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:00:02</sys_updated_on>
+        <value>0</value>
+    </pa_thresholds>
+</record_update>

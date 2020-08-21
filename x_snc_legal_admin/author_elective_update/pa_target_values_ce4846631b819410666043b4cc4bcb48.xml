@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="DELETE">
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-06-03 07:06:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce4846631b819410666043b4cc4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>pa_target_values_ce4846631b819410666043b4cc4bcb48</sys_update_name>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-06-03 07:06:33</sys_updated_on>
+        <target display_value="Staff Surplus 2">064846631b819410666043b4cc4bcb46</target>
+        <target_at>20200406</target_at>
+        <value>0</value>
+    </pa_target_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</application>
+        <file_path/>
+        <instance_id>10268128dbda4cd48aea21c405961909</instance_id>
+        <instance_name>nowsademo</instance_name>
+        <name>pa_target_values_ce4846631b819410666043b4cc4bcb48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values"><pa_target_values action="INSERT_OR_UPDATE"><sys_class_name>pa_target_values</sys_class_name><sys_created_by>marcus</sys_created_by><sys_created_on>2020-06-03 07:06:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ce4846631b819410666043b4cc4bcb48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>0</sys_name><sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package><sys_policy/><sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope><sys_update_name>pa_target_values_ce4846631b819410666043b4cc4bcb48</sys_update_name><sys_updated_by>marcus</sys_updated_by><sys_updated_on>2020-06-03 07:06:33</sys_updated_on><target display_value="Staff Surplus 2">064846631b819410666043b4cc4bcb46</target><target_at>20200406</target_at><value>0</value></pa_target_values></record_update>]]></payload>
+        <payload_hash>1447629768</payload_hash>
+        <record_name>0</record_name>
+        <reverted_from/>
+        <source>7d6b8a751b0d9810a30165f9bc4bcb22</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-06-03 07:06:33</sys_created_on>
+        <sys_id>ca4846631b819410666043b4cc4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727900c75a0000001</sys_recorded_at>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-06-03 07:06:33</sys_updated_on>
+        <type>Target value</type>
+        <update_guid>0648466375819410d3e908c11725ff4d</update_guid>
+        <update_guid_history>0648466375819410d3e908c11725ff4d:1447629768</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="0">5a6886631b819410666043b4cc4bcb9a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-06-03 07:07:07</sys_created_on>
+        <sys_db_object display_value="" name="pa_target_values">pa_target_values</sys_db_object>
+        <sys_id>96a2efe695f14844a0270c8c7a780951</sys_id>
+        <sys_metadata>ce4846631b819410666043b4cc4bcb48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_parent display_value="97b446af1b419410666043b4cc4bcbff">064846631b819410666043b4cc4bcb46</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_scope_delete display_value="">88b6344ea4cc4eb3b01f15b7062a9359</sys_scope_delete>
+        <sys_update_name>pa_target_values_ce4846631b819410666043b4cc4bcb48</sys_update_name>
+        <sys_update_version display_value="pa_target_values_ce4846631b819410666043b4cc4bcb48">ca4846631b819410666043b4cc4bcb4d</sys_update_version>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-06-03 07:07:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -2,7 +2,7 @@
     <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
         <breakdown display_value="Top Administrative Support Requests - by Category">ab650c971b249050666043b4cc4bcbe3</breakdown>
         <display>true</display>
-        <indicator display_value="Daily Open Administrative Support Tasks">d40dd5c31ba85050666043b4cc4bcb61</indicator>
+        <indicator display_value="Daily Open Administrative Support Tasks 1">d40dd5c31ba85050666043b4cc4bcb61</indicator>
         <order>200</order>
         <sql_statement/>
         <sys_class_name>pa_indicator_breakdowns</sys_class_name>

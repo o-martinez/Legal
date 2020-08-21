@@ -2,7 +2,7 @@
     <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
         <breakdown display_value="Location">656d5662eb23310065deac6aa206fee7</breakdown>
         <display>true</display>
-        <indicator display_value="Daily Open Administrative Support Tasks">d40dd5c31ba85050666043b4cc4bcb61</indicator>
+        <indicator display_value="Daily Open Administrative Support Tasks 1">d40dd5c31ba85050666043b4cc4bcb61</indicator>
         <order>100</order>
         <sql_statement/>
         <sys_class_name>pa_indicator_breakdowns</sys_class_name>

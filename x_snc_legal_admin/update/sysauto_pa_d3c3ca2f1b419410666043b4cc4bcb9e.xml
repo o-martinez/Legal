@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa">
+    <sysauto_pa action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <benchmarking>false</benchmarking>
+        <business_calendar/>
+        <collect>scores_text</collect>
+        <condition/>
+        <conditional>false</conditional>
+        <description>Run indicators to try and populate formula around staff shortage</description>
+        <entered_time/>
+        <kill_job>false</kill_job>
+        <name>Demo Data for Staff Shortage</name>
+        <run_as display_value="Marcus">076dfd021b609c10666043b4cc4bcb0b</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2020-06-03 06:46:58</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>on_demand</run_type>
+        <score_fixed_end>00000000</score_fixed_end>
+        <score_fixed_start>00000000</score_fixed_start>
+        <score_operator>relative</score_operator>
+        <score_relative_end>1</score_relative_end>
+        <score_relative_end_interval>days</score_relative_end_interval>
+        <score_relative_start>180</score_relative_start>
+        <score_relative_start_interval>days</score_relative_start_interval>
+        <sys_class_name>sysauto_pa</sys_class_name>
+        <sys_created_by>marcus</sys_created_by>
+        <sys_created_on>2020-06-03 06:47:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d3c3ca2f1b419410666043b4cc4bcb9e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Demo Data for Staff Shortage</sys_name>
+        <sys_package display_value="Legal Admin Assistant" source="x_snc_legal_admin">b7a9794a1b209c10666043b4cc4bcb33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Admin Assistant">b7a9794a1b209c10666043b4cc4bcb33</sys_scope>
+        <sys_update_name>sysauto_pa_d3c3ca2f1b419410666043b4cc4bcb9e</sys_update_name>
+        <sys_updated_by>marcus</sys_updated_by>
+        <sys_updated_on>2020-06-03 06:47:36</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_pa>
+    <sys_translated_text action="delete_multiple" query="documentkey=d3c3ca2f1b419410666043b4cc4bcb9e"/>
+</record_update>

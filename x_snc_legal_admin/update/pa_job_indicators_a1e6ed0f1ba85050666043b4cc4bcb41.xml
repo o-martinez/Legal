@@ -3,9 +3,9 @@
         <active>true</active>
         <collect>1</collect>
         <collect_indicator>true</collect_indicator>
-        <display>PA Legal App - Daily Open Administrative Support Tasks</display>
-        <indicator display_value="Daily Open Administrative Support Tasks">d40dd5c31ba85050666043b4cc4bcb61</indicator>
-        <job display_value="PA Legal App">e9a62d0f1ba85050666043b4cc4bcbc0</job>
+        <display>PA Legal App 1 - Daily Open Administrative Support Tasks 1</display>
+        <indicator display_value="Daily Open Administrative Support Tasks 1">d40dd5c31ba85050666043b4cc4bcb61</indicator>
+        <job display_value="PA Legal App 1">e9a62d0f1ba85050666043b4cc4bcbc0</job>
         <sys_class_name>pa_job_indicators</sys_class_name>
         <sys_created_by>marcus</sys_created_by>
         <sys_created_on>2020-05-07 18:52:21</sys_created_on>

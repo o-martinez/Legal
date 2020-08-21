@@ -50,7 +50,7 @@
         <include_target>false</include_target>
         <include_thresholds>false</include_thresholds>
         <include_trend>false</include_trend>
-        <indicator display_value="Daily Open Administrative Support Tasks">d40dd5c31ba85050666043b4cc4bcb61</indicator>
+        <indicator display_value="Daily Open Administrative Support Tasks 1">d40dd5c31ba85050666043b4cc4bcb61</indicator>
         <is_compare_chart>false</is_compare_chart>
         <lastscore_compare>previous_score</lastscore_compare>
         <lastscore_periods_back/>

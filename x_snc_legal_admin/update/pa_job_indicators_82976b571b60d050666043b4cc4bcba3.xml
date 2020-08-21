@@ -3,9 +3,9 @@
         <active>true</active>
         <collect>1</collect>
         <collect_indicator>true</collect_indicator>
-        <display>PA Legal App - Time Worked Administrative Support Tasks</display>
-        <indicator display_value="Time Worked Administrative Support Tasks">de57ab171b60d050666043b4cc4bcb47</indicator>
-        <job display_value="PA Legal App">e9a62d0f1ba85050666043b4cc4bcbc0</job>
+        <display>PA Legal App 1 - Time Worked Administrative Support Tasks 1</display>
+        <indicator display_value="Time Worked Administrative Support Tasks 1">de57ab171b60d050666043b4cc4bcb47</indicator>
+        <job display_value="PA Legal App 1">e9a62d0f1ba85050666043b4cc4bcbc0</job>
         <sys_class_name>pa_job_indicators</sys_class_name>
         <sys_created_by>marcus</sys_created_by>
         <sys_created_on>2020-05-08 22:53:07</sys_created_on>
